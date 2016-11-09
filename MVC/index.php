@@ -1,7 +1,7 @@
 <?php
 /*
 \windows
-/linux
+/linuxhkh
 */
 define("APP_FOLDER","MVC");
 define("APP_URL","http://".$_SERVER['SERVER_NAME'].":8080/php/".APP_FOLDER."/");
